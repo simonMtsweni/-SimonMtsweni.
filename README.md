@@ -42,7 +42,7 @@ I am a passionate Python DevOps Engineer with a strong background in building, a
 
 - **Email:** [simonmtswenism@gmail.com](mailto:simonmtswenism@gmail.com)
 - **GitHub:** [github.com/simonMtsweni](https://github.com/simonMtsweni)
-- **LinkedIn:** (https://www.linkedin/in/simon-mtsweni21a488a0)
+- **LinkedIn:** (https://www.linkedin/in/simon-mtsweni-21a488a0)
 
 ---
 
